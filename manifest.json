@@ -4,7 +4,7 @@
   "upstream": [],
   "peers": [],
   "downstream": ["chimera-body", "chimera-math", "chimera-language", "chimera-framework", "chimera-relationships", "chimera-ai", "chimera-crypto", "chimera-basketball", "chimera-chess", "chimera-music", "chimera-cooking"],
-  "doc_count": 37,
+  "doc_count": 42,
   "docs": [
     {"path": "README.md", "references": []},
     {"path": "axioms/two-forces.md", "references": []},
@@ -42,7 +42,12 @@
     {"path": "patterns/the-signature.md", "references": ["system/axioms/two-forces.md", "system/axioms/system-anatomy.md", "system/patterns/spawn-flow.md"]},
     {"path": "patterns/npc-mindset.md", "references": ["system/patterns/comprehension.md", "relationships/core/observe-without-absorbing.md", "system/patterns/the-signature.md", "body/core/the-membrane.md"]},
     {"path": "patterns/spawn-flow.md", "references": ["system/axioms/two-forces.md", "system/axioms/distance-and-proximity.md", "system/patterns/flow-direction.md", "system/patterns/the-signature.md", "system/patterns/npc-mindset.md"]},
-    {"path": "health/system-health-metrics.md", "references": []}
+    {"path": "health/system-health-metrics.md", "references": []},
+    {"path": "patterns/space-entanglement.md", "references": ["system/patterns/spawn-flow.md", "system/patterns/the-signature.md", "system/axioms/distance-and-proximity.md", "basketball/applied/home-court-decoded.md"]},
+    {"path": "patterns/emotional-entanglement.md", "references": ["system/patterns/spawn-flow.md", "system/patterns/npc-mindset.md", "guts/math/equations/flight-equation.md", "domains/crypto/foundations/manufactured-scarcity.md"]},
+    {"path": "patterns/attention-as-everything.md", "references": ["system/patterns/comprehension.md", "system/patterns/emotional-entanglement.md", "guts/math/equations/comprehension-cost.md", "system/axioms/the-breath-cycle.md"]},
+    {"path": "patterns/choice-and-gravity.md", "references": ["system/patterns/npc-mindset.md", "system/patterns/emotional-entanglement.md", "system/axioms/the-breath-cycle.md"]},
+    {"path": "applied/war-as-space-mastery.md", "references": ["system/patterns/space-entanglement.md", "system/patterns/spawn-flow.md", "system/patterns/emotional-entanglement.md", "basketball/applied/home-court-decoded.md"]}
   ],
   "last_updated": "2026-02-11"
 }
