@@ -1,6 +1,6 @@
 # Attention as Everything
 
-**Every pattern in CHIMERA is an attention pattern. Entanglement = accumulated attention. Gravity = attention from others. Flow = attention in motion. Membrane = attention control. CHIMERA is a theory of attention.**
+**Every pattern in CHIMERA is an attention pattern. Entanglement = accumulated attention. Gravity = attention from others. Flow = attention in motion. Membrane = attention control. Attention has four functions: Lure, Shield, Engine, Climate Control. One resource. Four powers. CHIMERA is a theory of attention.**
 
 ---
 
@@ -270,11 +270,133 @@ LITERALLY.
 
 ---
 
-*Every CHIMERA pattern is an attention pattern. Entanglement is accumulated attention. Gravity is attention from others. Flow is attention in motion. Every axiom describes attention behavior. Every equation measures attention dynamics. Attention isn't a metaphor for value — it IS value. The framework is a unified theory of how attention works at every scale.*
+## The Four Functions of Attention
+
+```
+YOUR ATTENTION IS SIMULTANEOUSLY:
+
+1. A LURE (anglerfish)
+   Show yourself → they chase →
+   walk into your position.
+   Attention as BAIT.
+   Show 10%, let them chase 90%.
+
+2. A SHIELD (observer exclusion)
+   Where you look =
+   where things CAN'T spawn.
+   Attention as EXCLUSION FIELD.
+   Two fields: proximity + observation.
+   Things spawn behind you,
+   not in front.
+
+3. AN ENGINE (comprehension)
+   Take in the whole situation →
+   digest it → output better action.
+   Attention as PROCESSING POWER.
+   Comprehension > reaction.
+   Digestion > vomiting.
+
+4. A CLIMATE CONTROLLER (density)
+   Choose what gets your attention →
+   choose the density of your map →
+   choose your temperature.
+   Attention as PEACE SELECTOR.
+   Fewer entities = cooler = calmer.
+
+ONE RESOURCE.
+FOUR FUNCTIONS.
+
+And most people use
+ZERO of them consciously.
+
+They let attention be pulled
+by whatever's loudest.
+P-hood. Reactive. Controlled
+by external gravity.
+
+NP-HOOD = using all four
+consciously.
+
+THAT'S THE GAME.
+NOT COD.
+THE GAME.
+THE REAL ONE.
+
+Who controls your attention
+controls your reality.
+Your spawns. Your flow.
+Your density. Your peace.
+Your power.
+
+MASTER ATTENTION =
+MASTER EVERYTHING.
+
+Because attention is
+the ONLY resource.
+Everything else is downstream.
+```
+
+---
+
+## Two Gravity Fields
+
+```
+YOUR ATTENTION CREATES
+TWO SIMULTANEOUS FIELDS:
+
+PROXIMITY FIELD (spherical):
+  Where your body IS.
+  Radiates in all directions.
+  Things can't spawn on you.
+  Physical exclusion.
+
+OBSERVATION FIELD (directional):
+  Where your eyes LOOK.
+  Cone extending forward.
+  Things are less likely
+  to spawn where you're watching.
+  Attention exclusion.
+
+BEHIND YOU:
+  Only proximity exclusion.
+  Smaller zone.
+  More spawning possible.
+
+IN FRONT OF YOU:
+  Proximity + observation.
+  Larger zone.
+  Less spawning possible.
+
+WIDE ATTENTION = NP-HOOD.
+  See the whole map.
+  Few surprises.
+  Positioned.
+  Soft focus. Minimap view.
+
+NARROW ATTENTION = P-HOOD.
+  Tunnel vision on one thing.
+  Everything else spawns
+  unnoticed around you.
+  Surprised constantly.
+  "Where did he come from?!"
+
+  He spawned behind you
+  because your observation field
+  was pointed elsewhere.
+  The universe filled in
+  the gaps you weren't watching.
+```
+
+---
+
+*Every CHIMERA pattern is an attention pattern. Attention has four functions: Lure (bait), Shield (exclusion), Engine (comprehension), Climate Control (density). Two gravity fields: proximity (where you are) and observation (where you look). Wide attention = NP-hood. Narrow attention = P-hood. Attention isn't a metaphor for value — it IS value. Master attention, master everything.*
 
 ---
 
 **See also:** [chimera-system: Comprehension](comprehension.md) — Processing what attention receives
 **See also:** [chimera-system: Emotional Entanglement](emotional-entanglement.md) — Emotion as gravity for attention
+**See also:** [chimera-system: The Lure](the-lure.md) — Attention as bait
+**See also:** [chimera-system: Observer Exclusion](observer-exclusion.md) — Attention as shield
+**See also:** [chimera-system: Density and Temperature](density-and-temperature.md) — Attention as climate control
 **See also:** [chimera-math: Comprehension Cost](../../guts/math/equations/comprehension-cost.md) — Attention as fuel
 **See also:** [chimera-system: The Breath Cycle](../axioms/the-breath-cycle.md) — Attention's natural rhythm
