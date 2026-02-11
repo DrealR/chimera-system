@@ -4,7 +4,7 @@
   "upstream": [],
   "peers": [],
   "downstream": ["chimera-body", "chimera-math", "chimera-language", "chimera-framework", "chimera-relationships", "chimera-ai", "chimera-crypto", "chimera-basketball", "chimera-chess", "chimera-music", "chimera-cooking"],
-  "doc_count": 34,
+  "doc_count": 37,
   "docs": [
     {"path": "README.md", "references": []},
     {"path": "axioms/two-forces.md", "references": []},
@@ -39,6 +39,9 @@
     {"path": "theology/gnostic-correction.md", "references": []},
     {"path": "theology/nimrod-babel.md", "references": []},
     {"path": "patterns/flow-direction.md", "references": ["system/axioms/topology.md", "system/patterns/extraction-pipeline.md", "crypto/foundations/crypto-as-blood.md", "crypto/deep/velocity-vs-accumulation.md"]},
+    {"path": "patterns/the-signature.md", "references": ["system/axioms/two-forces.md", "system/axioms/system-anatomy.md", "system/patterns/spawn-flow.md"]},
+    {"path": "patterns/npc-mindset.md", "references": ["system/patterns/comprehension.md", "relationships/core/observe-without-absorbing.md", "system/patterns/the-signature.md", "body/core/the-membrane.md"]},
+    {"path": "patterns/spawn-flow.md", "references": ["system/axioms/two-forces.md", "system/axioms/distance-and-proximity.md", "system/patterns/flow-direction.md", "system/patterns/the-signature.md", "system/patterns/npc-mindset.md"]},
     {"path": "health/system-health-metrics.md", "references": []}
   ],
   "last_updated": "2026-02-11"
