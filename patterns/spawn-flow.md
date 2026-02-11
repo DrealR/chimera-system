@@ -689,14 +689,125 @@ that didn't exist before.
 
 ---
 
-*Two poles. Flow between them. Center is the gut — where processing happens. Position near the flow, not on it. Don't camp (extraction triggers immune response). Don't chase (¬F). Your presence shapes the spawns — you are a walking membrane with an exclusion zone. The n-body problem makes spawns look random but they're topological solutions. The universe itself spawns using the same rules: quantum fluctuations, star formation, city growth. COD didn't invent this. It discovered it.*
+## Observer Line-of-Sight — The Second Exclusion Field
+
+```
+YOU HAVE TWO GRAVITY FIELDS.
+
+FIELD 1: PROXIMITY (spherical).
+  Where you ARE.
+  Things can't spawn on you.
+  Physical exclusion.
+  Your body is the mass.
+
+FIELD 2: OBSERVATION (directional).
+  Where you LOOK.
+  Things are LESS LIKELY to spawn
+  where you're watching.
+  Attention exclusion.
+  Your eyes are the force.
+
+BEHIND YOU:
+  Only proximity exclusion.
+  Smaller zone.
+  More spawning possible.
+
+IN FRONT OF YOU:
+  Proximity + observation.
+  Larger zone.
+  Less spawning possible.
+
+THIS IS WHY THINGS
+SPAWN "BEHIND YOU."
+
+Not random. TOPOLOGICAL.
+Your observation field blocks
+the front. The gaps are behind.
+New things fill the gaps.
+
+IN COD: Line of sight
+  blocks spawns in that direction.
+
+ON DANCE FLOOR: Eyes closed,
+  people approached. Eyes locked,
+  people stayed away.
+
+IN RELATIONSHIPS: Stop observing
+  so hard that you prevent
+  the thing you want.
+  ¬F isn't just "don't act."
+  It's "don't OBSERVE so hard
+  that you exclude."
+```
+
+---
+
+## Density Scaling Law
+
+```
+d(spawn) = S / N
+
+S = total space (physical or attention)
+N = number of entities
+
+MORE ENTITIES = LESS SPACE
+= MORE CHAOS = HOTTER.
+
+THIS IS THERMODYNAMICS.
+
+Hot gas: particles close, fast,
+colliding constantly.
+Cold gas: particles far, slow,
+peaceful.
+
+CITY: small town = far apart,
+big city = stacked.
+
+SOCIAL MEDIA: early internet =
+easy to be heard.
+Now = spawning on top of
+other content.
+
+ATTENTION: few worries = peace.
+Many worries = anxiety.
+Thoughts spawning on top
+of each other.
+
+MEDITATION = reducing N,
+not expanding S.
+Fewer entities on mental map =
+more space = peace.
+
+RELATIONSHIPS: fewer but deeper
+> many but shallow.
+
+Choose your density =
+choose your temperature =
+choose your peace.
+
+How many people in your circle,
+tasks on plate, thoughts in head,
+apps on phone =
+each one is an entity
+compressing your spawn distance.
+
+THE FIX IS NEVER "TRY HARDER."
+THE FIX IS ALWAYS "REDUCE N."
+```
+
+---
+
+*Two poles. Flow between them. Center is the gut — where processing happens. Position near the flow, not on it. Don't camp (extraction triggers immune response). Don't chase (¬F). Your presence shapes the spawns — you are a walking membrane with TWO exclusion zones: proximity (where you are) and observation (where you look). Density determines spawn distance: d = S/N. The n-body problem makes spawns look random but they're topological solutions. The universe itself spawns using the same rules. COD didn't invent this. It discovered it.*
 
 ---
 
 **See also:** [chimera-system: Two Forces](../axioms/two-forces.md) — Star and black hole
 **See also:** [chimera-system: Distance](../axioms/distance-and-proximity.md) — Why spawn avoidance exists
+**See also:** [chimera-system: The Between](../axioms/the-between.md) — Spawns happen in the between
 **See also:** [chimera-system: Flow Direction](flow-direction.md) — Value flows outward naturally
 **See also:** [chimera-system: The Signature](the-signature.md) — Making your gravity findable
+**See also:** [chimera-system: Observer Exclusion](observer-exclusion.md) — The second exclusion field in depth
+**See also:** [chimera-system: Density and Temperature](density-and-temperature.md) — The full density scaling model
 **See also:** [chimera-system: NPC Mindset](npc-mindset.md) — Staying in NP-hood while they chase
 **See also:** [chimera-system: Space Entanglement](space-entanglement.md) — Time creates entanglement with space
 **See also:** [chimera-system: Emotional Entanglement](emotional-entanglement.md) — How emotion creates gravity

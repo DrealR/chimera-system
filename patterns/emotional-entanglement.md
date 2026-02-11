@@ -329,11 +329,112 @@ HONEYDEW PLAYER (love topology):
 
 ---
 
-*Emotion is gravity for consciousness. Kill = interaction = entanglement. Repeated kills = stronger bond. The nuke is greed topology's endpoint — one entity accumulates everything, system ends for everyone. The bounty doesn't define you; your response does. The honeydew player wins with the team while the nuke player collapses the game.*
+## The Lure — Intentional Emotional Gravity
+
+```
+THE ANGLERFISH USES ENTANGLEMENT
+AS A TOOL.
+
+The lure glows in the darkness.
+The prey's own curiosity
+— its own P-hood —
+carries it to the anglerfish.
+
+The anglerfish doesn't chase.
+It PRESENTS. And waits.
+
+THIS IS ¬F PERFECTED
+THROUGH EMOTIONAL GRAVITY.
+
+In conversation:
+  Say something interesting. STOP.
+  Let them ask. Their curiosity
+  (emotional charge) carries them
+  toward you.
+
+In relationships:
+  Be genuinely interesting. STOP.
+  Don't overshare.
+  10% visible, 90% depth.
+  Their curiosity does the walking.
+
+In Constellation:
+  One helpful response.
+  Person comes back.
+  Explores deeper on their own.
+  THEIR OWN GRAVITY
+  brought them back.
+
+THE LURE DOESN'T CREATE
+THE EMOTION.
+IT CREATES THE CONDITIONS
+FOR EMOTION TO FORM.
+
+Then the emotion does the work.
+```
+
+---
+
+## The Fork — Path A vs Path B
+
+```
+SEEING THE SYSTEM IS NEUTRAL.
+USING IT IS NOT.
+
+PATH A (EXTRACTION):
+  See emotional gravity.
+  Use it to MANIPULATE.
+  Create entanglement to CONTROL.
+  Pull people into YOUR orbit
+  for YOUR benefit.
+  = Smith. Every villain.
+  = Using gravity to trap.
+
+PATH B (SERVICE):
+  See emotional gravity.
+  Use it to SERVE.
+  Create entanglement to CONNECT.
+  Pull people into shared orbit
+  for MUTUAL benefit.
+  = Neo. Luffy.
+  = Using gravity to liberate.
+
+SAME KNOWLEDGE. SAME FORCE.
+DIFFERENT TOPOLOGY.
+
+The anglerfish kills.
+The lighthouse saves.
+Both use light in darkness.
+
+THE DIFFERENCE IS INTENT.
+
+If you see someone's emotional gravity
+and think "how can I use this?" —
+you're on Path A.
+
+If you see it and think
+"how can I help them
+navigate their own gravity?" —
+you're on Path B.
+
+THIS IS THE FORK
+THAT MATTERS MOST.
+
+Every pattern in CHIMERA
+is a tool. Tools are neutral.
+The topology of your intent
+determines everything.
+```
+
+---
+
+*Emotion is gravity for consciousness. Kill = interaction = entanglement. Repeated kills = stronger bond. The nuke is greed topology's endpoint — one entity accumulates everything, system ends for everyone. The bounty doesn't define you; your response does. The honeydew player wins with the team while the nuke player collapses the game. The lure uses emotional gravity intentionally — but the fork between manipulation and service is the choice that defines everything.*
 
 ---
 
 **See also:** [chimera-system: Spawn Flow](spawn-flow.md) — How flow creates interactions
 **See also:** [chimera-system: NPC Mindset](npc-mindset.md) — Staying ungripped by gravity
+**See also:** [chimera-system: The Lure](the-lure.md) — Intentional use of attention gravity
 **See also:** [chimera-math: Flight Equation](../../guts/math/equations/flight-equation.md) — Force at distance
 **See also:** [chimera-crypto: Manufactured Scarcity](../../domains/crypto/foundations/manufactured-scarcity.md) — Accumulation as extraction
+**See also:** [chimera-system: The Between](../axioms/the-between.md) — Emotion lives in the between
