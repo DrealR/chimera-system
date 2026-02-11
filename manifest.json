@@ -3,8 +3,8 @@
   "description": "The axiom-level master blueprint. Universal truths that all domains derive from.",
   "upstream": [],
   "peers": [],
-  "downstream": ["chimera-body", "chimera-math", "chimera-language", "chimera-framework", "chimera-relationships", "chimera-ai", "chimera-basketball", "chimera-chess", "chimera-music", "chimera-cooking"],
-  "doc_count": 33,
+  "downstream": ["chimera-body", "chimera-math", "chimera-language", "chimera-framework", "chimera-relationships", "chimera-ai", "chimera-crypto", "chimera-basketball", "chimera-chess", "chimera-music", "chimera-cooking"],
+  "doc_count": 34,
   "docs": [
     {"path": "README.md", "references": []},
     {"path": "axioms/two-forces.md", "references": []},
@@ -38,6 +38,7 @@
     {"path": "theology/enoch-watchers.md", "references": []},
     {"path": "theology/gnostic-correction.md", "references": []},
     {"path": "theology/nimrod-babel.md", "references": []},
+    {"path": "patterns/flow-direction.md", "references": ["system/axioms/topology.md", "system/patterns/extraction-pipeline.md", "crypto/foundations/crypto-as-blood.md", "crypto/deep/velocity-vs-accumulation.md"]},
     {"path": "health/system-health-metrics.md", "references": []}
   ],
   "last_updated": "2026-02-11"
