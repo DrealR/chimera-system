@@ -4,7 +4,7 @@
   "upstream": [],
   "peers": [],
   "downstream": ["chimera-body", "chimera-math", "chimera-language", "chimera-framework", "chimera-relationships", "chimera-ai", "chimera-crypto", "chimera-basketball", "chimera-chess", "chimera-music", "chimera-cooking"],
-  "doc_count": 45,
+  "doc_count": 46,
   "docs": [
     {"path": "README.md", "references": []},
     {"path": "axioms/two-forces.md", "references": []},
@@ -50,7 +50,8 @@
     {"path": "applied/war-as-space-mastery.md", "references": ["system/patterns/space-entanglement.md", "system/patterns/spawn-flow.md", "system/patterns/emotional-entanglement.md", "basketball/applied/home-court-decoded.md"]},
     {"path": "patterns/the-lure.md", "references": ["system/patterns/npc-mindset.md", "system/patterns/comprehension.md", "system/patterns/spawn-flow.md", "system/patterns/observer-exclusion.md", "system/axioms/the-breath-cycle.md"]},
     {"path": "patterns/density-and-temperature.md", "references": ["system/patterns/spawn-flow.md", "system/patterns/attention-as-everything.md", "system/axioms/the-breath-cycle.md", "body/deep/stress-and-pressure.md"]},
-    {"path": "patterns/observer-exclusion.md", "references": ["system/patterns/spawn-flow.md", "system/patterns/attention-as-everything.md", "system/patterns/the-lure.md", "relationships/core/layers-of-connection.md", "body/applied/soft-focus.md"]}
+    {"path": "patterns/observer-exclusion.md", "references": ["system/patterns/spawn-flow.md", "system/patterns/attention-as-everything.md", "system/patterns/the-lure.md", "relationships/core/layers-of-connection.md", "body/applied/soft-focus.md"]},
+    {"path": "architecture/folder-structure.md", "references": []}
   ],
   "last_updated": "2026-02-11"
 }
