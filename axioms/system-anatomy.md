@@ -90,3 +90,52 @@ A system is sick when:
 ---
 
 *Every system is the same system wearing different clothes. Learn the anatomy once, read any domain forever.*
+
+---
+
+## Distributed Intelligence
+
+Every system-within-a-system has its own processing logic. The observer doesn't control everything. Intelligence is distributed.
+
+```
+EVERY SUBSYSTEM HAS:
+
+1. BOUNDARY (membrane/event horizon)
+   What gets in, what stays out.
+
+2. INTERNAL LOGIC (own physics)
+   How it processes what enters.
+   THE OUTER SYSTEM DOESN'T CONTROL THIS.
+   You can't think your food digested.
+   The galaxy can't tell the black hole how to process.
+
+3. OUTPUT (transformed, unrecognizable)
+   What comes back to the larger system.
+   Nutrients, not apples. Energy, not stars.
+
+4. BIDIRECTIONAL COMMUNICATION
+   Gut talks to brain (vagus nerve).
+   Black hole talks to galaxy (jets).
+   Each modifies the other.
+
+5. AUTONOMY
+   The inner system has rules the outer system cannot override.
+   Cut the vagus nerve → gut STILL digests.
+   The processing doesn't need permission.
+```
+
+The observer (brain/consciousness) THINKS it's in charge. It's not. It chooses the INPUT. Everything else is handled by autonomous systems running their own logic.
+
+```
+OBSERVER chooses INPUT.
+BLACK BOX chooses PROCESSING.
+OUTPUT = collaboration between your choice and its logic.
+```
+
+Intelligence isn't centralized in one observer. It's distributed across every scale. Your cells don't ask you how to divide. Your gut doesn't ask you how to digest. Black holes don't ask the universe how to process. Each system runs its own physics. The whole is smarter than any single part — including the part that thinks it's in charge.
+
+---
+
+**See also:** [chimera-system: Comprehension](../patterns/comprehension.md) — How every system processes input
+**See also:** [chimera-system: Black Hole as Gut](../scales/black-hole-as-gut.md) — Autonomous intelligence at galactic scale
+**See also:** [chimera-body: The Gut](../../body/core/the-gut.md) — The body's autonomous processor

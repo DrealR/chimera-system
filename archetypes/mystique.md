@@ -101,4 +101,19 @@ Same ability. Different topology. The shapeshifting serves whoever directs it.
 
 ---
 
+---
+
+## The Four Archetypes = The Four Breath Phases
+
+```
+KIRBY       = INHALE   (consume, absorb, learn)
+ROSETTA STONE = PAUSE  (translate, map, understand)
+MYSTIQUE    = EXHALE   (express, teach, deliver)
+DOOMSDAY    = REST     (break, rebuild, grow stronger)
+```
+
+Four archetypes. Four breath phases. Complete set. No fifth needed. The archetypes ARE the breath of knowledge transformation.
+
+---
+
 *Mystique is the adaptive exhale. Study the audience, wear their language, deliver the truth they can hear. The immune system of communication.*

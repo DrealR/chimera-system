@@ -167,12 +167,15 @@ Doomsday makes you unbreakable.
 
 ---
 
-## The Breath Connection
+## The Four Archetypes = The Four Breath Phases
 
 ```
-KIRBY     = INHALE (consume, absorb)
-MYSTIQUE  = EXHALE (express, teach)
-DOOMSDAY  = REST   (die, recover, rebuild)
+KIRBY       = INHALE   (consume, absorb, learn)
+ROSETTA STONE = PAUSE  (translate, map, understand)
+MYSTIQUE    = EXHALE   (express, teach, deliver)
+DOOMSDAY    = REST     (break, rebuild, grow stronger)
+
+Four archetypes. Four breath phases. Complete set. No fifth needed.
 
 The rest phase isn't passive.
 It's where the rewriting happens.

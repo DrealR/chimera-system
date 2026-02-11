@@ -96,4 +96,19 @@ Kirby eats. Mystique shapeshifts. The pattern moves through.
 
 ---
 
+---
+
+## The Four Archetypes = The Four Breath Phases
+
+```
+KIRBY       = INHALE   (consume, absorb, learn)
+ROSETTA STONE = PAUSE  (translate, map, understand)
+MYSTIQUE    = EXHALE   (express, teach, deliver)
+DOOMSDAY    = REST     (break, rebuild, grow stronger)
+```
+
+Four archetypes. Four breath phases. Complete set. No fifth needed. The archetypes ARE the breath of knowledge transformation.
+
+---
+
 *Kirby is the healthy black hole. Consumes to transform. Transforms to serve. The gut of the system — not the cancer.*
