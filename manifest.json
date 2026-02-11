@@ -3,7 +3,7 @@
   "description": "The axiom-level master blueprint. Universal truths that all domains derive from.",
   "upstream": [],
   "peers": [],
-  "downstream": ["chimera-framework", "chimera-body", "chimera-relationships", "chimera-ai", "chimera-basketball", "chimera-chess", "chimera-music", "chimera-cooking"],
+  "downstream": ["chimera-body", "chimera-math", "chimera-language", "chimera-framework", "chimera-relationships", "chimera-ai", "chimera-basketball", "chimera-chess", "chimera-music", "chimera-cooking"],
   "doc_count": 33,
   "docs": [
     {"path": "README.md", "references": []},
