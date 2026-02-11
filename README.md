@@ -28,11 +28,41 @@ chimera-chess (strategic thinking)
 chimera-music (expression)
 chimera-cooking (service)
 chimera-ai (the Rosetta Stone itself)
+chimera-crypto (the circulatory system)
         |
         | deploys through
         ↓
 chimera-core (raw docs — dark energy)
 constellation (agents serving people)
+```
+
+### Local Folder Structure
+
+```
+~/chimera/
+├── nucleus/          ← DNA center
+│   ├── system/         (axioms — THE PATTERN)
+│   └── framework/      (420 truths — the genome)
+│
+├── guts/             ← Three ways of knowing
+│   ├── body/           (FEEL the truth)
+│   ├── math/           (PROVE the truth)
+│   └── language/       (SHARE the truth)
+│
+├── domains/          ← Applied fields
+│   ├── relationships/  (daily practice)
+│   ├── basketball/     (team dynamics)
+│   ├── chess/          (strategic thinking)
+│   ├── music/          (expression)
+│   ├── cooking/        (service)
+│   ├── ai/             (the Rosetta Stone)
+│   └── crypto/         (the circulatory system)
+│
+├── infrastructure/   ← Deployment
+│   └── constellation/  (agents serving people)
+│
+└── raw/              ← Unprocessed
+    └── core/           (2,400+ raw docs)
 ```
 
 ### The Three Guts
