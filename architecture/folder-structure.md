@@ -4,7 +4,7 @@
 
 **Last Updated:** 2026-02-11
 **Total Repos:** 15
-**Total Docs:** 3,114
+**Total Docs:** 3,115
 
 ---
 
@@ -70,11 +70,12 @@
 │   │   git: DrealR/chimera-ai
 │   ├── crypto/                     # Blood for systems (14 docs)
 │   │   git: DrealR/chimera-crypto
-│   └── stories/                    # Comedy + writing as delivery (22 docs)
+│   └── stories/                    # Comedy + writing as delivery (23 docs)
 │       ├── characters/             # The cast — every character is you
 │       ├── bits/                   # Comedy bits — seeds to scenes
 │       ├── structures/             # Comedy architecture
 │       ├── techniques/             # Comedy tools
+│       ├── studies/                # Comedy breakdowns — watch, extract, learn
 │       └── raw/                    # Capture first, structure later
 │       git: DrealR/chimera-stories
 │
@@ -159,10 +160,10 @@ ALWAYS THIS ORDER. NEVER SKIP THE STOMACH.
 | Domains | cooking | 1 | DrealR/chimera-cooking |
 | Domains | ai | 18 | DrealR/chimera-ai |
 | Domains | crypto | 14 | DrealR/chimera-crypto |
-| Domains | stories | 22 | DrealR/chimera-stories |
+| Domains | stories | 23 | DrealR/chimera-stories |
 | Infrastructure | constellation | 28 | DrealR/chimera-constellation |
 | Raw | core | 2,428 | DrealR/chimera-core |
-| **TOTAL** | | **3,114** | |
+| **TOTAL** | | **3,115** | |
 
 ---
 
