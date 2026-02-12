@@ -3,8 +3,8 @@
 **The single source of truth for the entire CHIMERA architecture. Every CC instance, every laptop, every future collaborator reads this FIRST. This doc bootstraps any machine — like DNA bootstraps a cell.**
 
 **Last Updated:** 2026-02-11
-**Total Repos:** 14
-**Total Docs:** 3,092
+**Total Repos:** 15
+**Total Docs:** 3,114
 
 ---
 
@@ -68,8 +68,15 @@
 │   │   git: DrealR/chimera-cooking
 │   ├── ai/                         # Consciousness & comprehension (18 docs)
 │   │   git: DrealR/chimera-ai
-│   └── crypto/                     # Blood for systems (14 docs)
-│       git: DrealR/chimera-crypto
+│   ├── crypto/                     # Blood for systems (14 docs)
+│   │   git: DrealR/chimera-crypto
+│   └── stories/                    # Comedy + writing as delivery (22 docs)
+│       ├── characters/             # The cast — every character is you
+│       ├── bits/                   # Comedy bits — seeds to scenes
+│       ├── structures/             # Comedy architecture
+│       ├── techniques/             # Comedy tools
+│       └── raw/                    # Capture first, structure later
+│       git: DrealR/chimera-stories
 │
 ├── infrastructure/                 # THE BODY'S SYSTEMS
 │   └── constellation/              # The breathing mind (28 docs)
@@ -152,9 +159,10 @@ ALWAYS THIS ORDER. NEVER SKIP THE STOMACH.
 | Domains | cooking | 1 | DrealR/chimera-cooking |
 | Domains | ai | 18 | DrealR/chimera-ai |
 | Domains | crypto | 14 | DrealR/chimera-crypto |
+| Domains | stories | 22 | DrealR/chimera-stories |
 | Infrastructure | constellation | 28 | DrealR/chimera-constellation |
 | Raw | core | 2,428 | DrealR/chimera-core |
-| **TOTAL** | | **3,092** | |
+| **TOTAL** | | **3,114** | |
 
 ---
 
@@ -191,6 +199,7 @@ declare -A REPOS=(
   ["chimera-cooking"]="domains/cooking"
   ["chimera-ai"]="domains/ai"
   ["chimera-crypto"]="domains/crypto"
+  ["chimera-stories"]="domains/stories"
   ["chimera-constellation"]="infrastructure/constellation"
   ["chimera-core"]="raw/core"
 )
