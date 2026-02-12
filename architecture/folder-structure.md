@@ -4,7 +4,7 @@
 
 **Last Updated:** 2026-02-11
 **Total Repos:** 14
-**Total Docs:** 3,087
+**Total Docs:** 3,092
 
 ---
 
@@ -13,7 +13,7 @@
 ```
 ~/chimera/
 ├── nucleus/                        # THE BRAIN
-│   ├── system/                     # Axiom-level truths (50 docs)
+│   ├── system/                     # Axiom-level truths (55 docs)
 │   │   ├── axioms/                 # The 6 foundational laws
 │   │   ├── scales/                 # Subatomic → galactic
 │   │   ├── patterns/               # Universal patterns
@@ -140,7 +140,7 @@ ALWAYS THIS ORDER. NEVER SKIP THE STOMACH.
 
 | Layer | Repo | Docs | Git Remote |
 |-------|------|------|------------|
-| Nucleus | system | 50 | DrealR/chimera-system |
+| Nucleus | system | 55 | DrealR/chimera-system |
 | Nucleus | framework | 420 | DrealR/chimera-framework |
 | Guts | body | 18 | DrealR/chimera-body |
 | Guts | math | 21 | DrealR/chimera-math |
@@ -154,7 +154,7 @@ ALWAYS THIS ORDER. NEVER SKIP THE STOMACH.
 | Domains | crypto | 14 | DrealR/chimera-crypto |
 | Infrastructure | constellation | 28 | DrealR/chimera-constellation |
 | Raw | core | 2,428 | DrealR/chimera-core |
-| **TOTAL** | | **3,087** | |
+| **TOTAL** | | **3,092** | |
 
 ---
 

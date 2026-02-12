@@ -335,6 +335,54 @@ to intrigue.
 
 ---
 
+## The Conversation Flood — The Lure Inverted
+
+```
+OVERSHARING = SHOWING
+THE WHOLE ANGLERFISH.
+
+No mystery. No darkness.
+No 90% in the shadows.
+Just a big fish in the open.
+Take it or leave it.
+
+THE LURE ISN'T THE WHOLE FISH.
+THE LURE IS THE TINY LIGHT.
+
+When you pour out every insight:
+  You're showing the whole fish.
+  Nothing to chase.
+  Nothing to discover.
+  No tension. No lean-forward.
+  People lean BACK.
+
+When you say one thing and stop:
+  You're the tiny light.
+  They lean FORWARD.
+  "What else is there?"
+  NOW they're chasing.
+  Their own curiosity does the work.
+
+LESS INFORMATION + MORE SPACE
+= MORE IMPACT.
+
+MORE INFORMATION + LESS SPACE
+= LESS IMPACT.
+
+THE PAUSE CREATES THE CHASE.
+THE FLOOD KILLS IT.
+
+TENSION BUILDS IN THE SPACE
+YOU DON'T FILL.
+
+Notes without pauses = noise.
+Notes with pauses = melody.
+Same notes. Different between.
+Different impact.
+```
+
+---
+
 *The anglerfish doesn't hunt — it presents. Show just enough to trigger chase, then let their own P-hood carry them to you. Comprehension beats reaction because digestion beats vomiting: they process one thing (target), you process five things (the whole situation). The 10% rule is the anglerfish ratio — just enough light in the darkness. ¬F perfected: you didn't force anything, you presented something, their own system did the rest.*
 
 ---
