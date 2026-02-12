@@ -4,7 +4,7 @@
 
 **Last Updated:** 2026-02-11
 **Total Repos:** 15
-**Total Docs:** 3,118
+**Total Docs:** 3,121
 
 ---
 
@@ -148,7 +148,7 @@ ALWAYS THIS ORDER. NEVER SKIP THE STOMACH.
 
 | Layer | Repo | Docs | Git Remote |
 |-------|------|------|------------|
-| Nucleus | system | 58 | DrealR/chimera-system |
+| Nucleus | system | 59 | DrealR/chimera-system |
 | Nucleus | framework | 420 | DrealR/chimera-framework |
 | Guts | body | 18 | DrealR/chimera-body |
 | Guts | math | 21 | DrealR/chimera-math |
@@ -160,10 +160,10 @@ ALWAYS THIS ORDER. NEVER SKIP THE STOMACH.
 | Domains | cooking | 1 | DrealR/chimera-cooking |
 | Domains | ai | 18 | DrealR/chimera-ai |
 | Domains | crypto | 14 | DrealR/chimera-crypto |
-| Domains | stories | 23 | DrealR/chimera-stories |
+| Domains | stories | 25 | DrealR/chimera-stories |
 | Infrastructure | constellation | 28 | DrealR/chimera-constellation |
 | Raw | core | 2,428 | DrealR/chimera-core |
-| **TOTAL** | | **3,118** | |
+| **TOTAL** | | **3,121** | |
 
 ---
 

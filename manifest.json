@@ -4,7 +4,7 @@
   "upstream": [],
   "peers": [],
   "downstream": ["chimera-body", "chimera-math", "chimera-language", "chimera-framework", "chimera-relationships", "chimera-ai", "chimera-crypto", "chimera-basketball", "chimera-chess", "chimera-music", "chimera-cooking"],
-  "doc_count": 58,
+  "doc_count": 59,
   "docs": [
     {"path": "README.md", "references": []},
     {"path": "axioms/two-forces.md", "references": []},
@@ -63,7 +63,8 @@
     {"path": "connections/original-lie-to-flood.md", "references": ["system/applied/conversation-mastery.md", "system/patterns/the-lure.md", "system/patterns/speed-as-variable.md", "guts/math/equations/flight-equation.md", "system/axioms/the-between.md"]},
     {"path": "patterns/the-orbit.md", "references": ["system/patterns/spawn-flow.md", "system/patterns/observer-exclusion.md", "system/patterns/states-of-between.md", "system/patterns/engagement-over-outcome.md", "system/applied/system-mastery.md", "system/applied/conversation-mastery.md"]},
     {"path": "patterns/engagement-over-outcome.md", "references": ["system/patterns/the-orbit.md", "system/patterns/spawn-flow.md", "system/connections/original-lie-to-flood.md", "system/applied/training-protocol.md", "system/patterns/the-lure.md", "system/applied/system-mastery.md"]},
-    {"path": "applied/daily-orbit.md", "references": ["system/applied/training-protocol.md", "system/patterns/the-orbit.md", "system/patterns/engagement-over-outcome.md", "system/applied/system-mastery.md", "system/applied/conversation-mastery.md", "stories/SKILL.md"]}
+    {"path": "applied/daily-orbit.md", "references": ["system/applied/training-protocol.md", "system/patterns/the-orbit.md", "system/patterns/engagement-over-outcome.md", "system/applied/system-mastery.md", "system/applied/conversation-mastery.md", "stories/SKILL.md"]},
+    {"path": "connections/extraction-at-civilization-scale.md", "references": ["system/patterns/extraction-pipeline.md", "system/connections/original-lie-to-flood.md", "system/axioms/the-between.md", "system/patterns/engagement-over-outcome.md", "system/applied/daily-orbit.md"]}
   ],
-  "last_updated": "2026-02-11"
+  "last_updated": "2026-02-12"
 }
