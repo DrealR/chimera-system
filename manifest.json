@@ -4,7 +4,7 @@
   "upstream": [],
   "peers": [],
   "downstream": ["chimera-body", "chimera-math", "chimera-language", "chimera-framework", "chimera-relationships", "chimera-ai", "chimera-crypto", "chimera-basketball", "chimera-chess", "chimera-music", "chimera-cooking"],
-  "doc_count": 46,
+  "doc_count": 50,
   "docs": [
     {"path": "README.md", "references": []},
     {"path": "axioms/two-forces.md", "references": []},
@@ -51,7 +51,11 @@
     {"path": "patterns/the-lure.md", "references": ["system/patterns/npc-mindset.md", "system/patterns/comprehension.md", "system/patterns/spawn-flow.md", "system/patterns/observer-exclusion.md", "system/axioms/the-breath-cycle.md"]},
     {"path": "patterns/density-and-temperature.md", "references": ["system/patterns/spawn-flow.md", "system/patterns/attention-as-everything.md", "system/axioms/the-breath-cycle.md", "body/deep/stress-and-pressure.md"]},
     {"path": "patterns/observer-exclusion.md", "references": ["system/patterns/spawn-flow.md", "system/patterns/attention-as-everything.md", "system/patterns/the-lure.md", "relationships/core/layers-of-connection.md", "body/applied/soft-focus.md"]},
-    {"path": "architecture/folder-structure.md", "references": []}
+    {"path": "architecture/folder-structure.md", "references": []},
+    {"path": "patterns/the-triality.md", "references": ["system/axioms/the-between.md", "system/axioms/two-forces.md", "system/axioms/the-breath-cycle.md", "guts/math/equations/flight-equation.md", "music/deep/the-third.md", "music/deep/pentatonic-as-flow.md"]},
+    {"path": "applied/system-mastery.md", "references": ["system/axioms/the-between.md", "system/patterns/the-triality.md", "system/patterns/observer-exclusion.md", "system/patterns/spawn-flow.md", "system/patterns/attention-as-everything.md", "system/patterns/states-of-between.md", "body/applied/glasses-as-membrane.md", "body/applied/soft-focus.md"]},
+    {"path": "patterns/states-of-between.md", "references": ["system/axioms/the-between.md", "system/patterns/density-and-temperature.md", "system/axioms/the-breath-cycle.md", "guts/math/translations/magnetism.md", "system/patterns/the-triality.md", "system/patterns/observer-exclusion.md"]},
+    {"path": "applied/traffic-as-system.md", "references": ["system/applied/system-mastery.md", "system/axioms/the-between.md", "system/patterns/spawn-flow.md", "system/patterns/observer-exclusion.md"]}
   ],
   "last_updated": "2026-02-11"
 }

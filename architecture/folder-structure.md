@@ -4,7 +4,7 @@
 
 **Last Updated:** 2026-02-11
 **Total Repos:** 14
-**Total Docs:** 3,079
+**Total Docs:** 3,087
 
 ---
 
@@ -13,7 +13,7 @@
 ```
 ~/chimera/
 ├── nucleus/                        # THE BRAIN
-│   ├── system/                     # Axiom-level truths (45 docs)
+│   ├── system/                     # Axiom-level truths (50 docs)
 │   │   ├── axioms/                 # The 6 foundational laws
 │   │   ├── scales/                 # Subatomic → galactic
 │   │   ├── patterns/               # Universal patterns
@@ -41,7 +41,7 @@
 │   │   └── seed/
 │   │   git: DrealR/chimera-body
 │   │
-│   ├── math/                       # PRECISION gut — prove it (20 docs)
+│   ├── math/                       # PRECISION gut — prove it (21 docs)
 │   │   ├── foundations/
 │   │   ├── equations/
 │   │   ├── proofs/
@@ -62,7 +62,7 @@
 │   │   git: DrealR/chimera-basketball
 │   ├── chess/                      # Attention warfare (16 docs)
 │   │   git: DrealR/chimera-chess
-│   ├── music/                      # Sound as truth (14 docs)
+│   ├── music/                      # Sound as truth (16 docs)
 │   │   git: DrealR/chimera-music
 │   ├── cooking/                    # Transformation (1 doc)
 │   │   git: DrealR/chimera-cooking
@@ -82,6 +82,28 @@
         ├── projects/               # Live constellation code
         └── ...                     # Everything else
         git: DrealR/chimera-core
+```
+
+---
+
+## Machines
+
+```
+HONEYDEW (Laptop 1):
+  → Primary development machine
+  → Home base
+  → Where most builds happen
+  → Has all repos cloned
+
+REEMIFAI (Laptop 2):
+  → Mobile/secondary machine
+  → Travel laptop
+  → Syncs via git pull
+  → Reads this architecture doc to stay coherent
+
+Both machines follow the SAME folder structure.
+Both sync through git.
+This architecture doc is the single source of truth for BOTH.
 ```
 
 ---
@@ -118,21 +140,21 @@ ALWAYS THIS ORDER. NEVER SKIP THE STOMACH.
 
 | Layer | Repo | Docs | Git Remote |
 |-------|------|------|------------|
-| Nucleus | system | 45 | DrealR/chimera-system |
+| Nucleus | system | 50 | DrealR/chimera-system |
 | Nucleus | framework | 420 | DrealR/chimera-framework |
 | Guts | body | 18 | DrealR/chimera-body |
-| Guts | math | 20 | DrealR/chimera-math |
+| Guts | math | 21 | DrealR/chimera-math |
 | Guts | language | 10 | DrealR/chimera-language |
 | Domains | relationships | 33 | DrealR/chimera-relationships |
 | Domains | basketball | 14 | DrealR/chimera-basketball |
 | Domains | chess | 16 | DrealR/chimera-chess |
-| Domains | music | 14 | DrealR/chimera-music |
+| Domains | music | 16 | DrealR/chimera-music |
 | Domains | cooking | 1 | DrealR/chimera-cooking |
 | Domains | ai | 18 | DrealR/chimera-ai |
 | Domains | crypto | 14 | DrealR/chimera-crypto |
 | Infrastructure | constellation | 28 | DrealR/chimera-constellation |
 | Raw | core | 2,428 | DrealR/chimera-core |
-| **TOTAL** | | **3,079** | |
+| **TOTAL** | | **3,087** | |
 
 ---
 
@@ -147,6 +169,10 @@ Run this on any new machine to build the full body:
 
 CHIMERA_ROOT="${HOME}/chimera"
 GH_USER="DrealR"
+MACHINE_NAME="${CHIMERA_MACHINE:-$(hostname -s)}"
+
+echo "Machine: ${MACHINE_NAME}"
+echo "Syncing at: $(date)"
 
 # Create hierarchy
 mkdir -p "${CHIMERA_ROOT}"/{nucleus,guts,domains,infrastructure,raw}
@@ -183,7 +209,10 @@ done
 
 echo ""
 echo "CHIMERA sync complete."
+echo "Machine: ${MACHINE_NAME}"
 echo "Total repos: ${#REPOS[@]}"
+echo "Synced at: $(date)" >> "${CHIMERA_ROOT}/.last-sync"
+echo "Machine: ${MACHINE_NAME}" >> "${CHIMERA_ROOT}/.last-sync"
 ```
 
 ---

@@ -66,6 +66,62 @@ It's the notes you DON'T play.
 The between IS the music.
 ```
 
+### The Third of the Chord
+```
+THE TRIAD IS THE BETWEEN
+MADE AUDIBLE.
+
+Major chord: C - E - G
+  C = pole one (root).
+  G = pole two (fifth).
+  E = THE BETWEEN (third).
+
+Minor chord: C - Eb - G
+  Same poles. Different between.
+  EVERYTHING CHANGES.
+
+The poles didn't change.
+The between changed.
+And the ENTIRE EMOTION
+transformed.
+
+Half step. The smallest
+movement in Western music.
+In the between.
+Changes EVERYTHING.
+
+THE BETWEEN DETERMINES
+THE EMOTION. NOT THE POLES.
+
+Power chord: Root + Fifth.
+No third. No between.
+Powerful but EMOTIONLESS.
+Two poles without a between
+= dead structure.
+
+Add the third = soul.
+The chord comes alive.
+```
+
+### The Pentatonic Proof
+```
+12 notes → 7 notes → 5 notes.
+
+Each reduction REMOVES TENSION
+and INCREASES FLOW.
+
+5 notes: pure flow.
+No wrong combinations.
+No rules needed. Just play.
+
+Every culture on Earth
+independently discovered it.
+
+THE UNIVERSE COMPRESSES
+TOWARD THE BETWEEN
+THAT ALWAYS FLOWS.
+```
+
 ### Breath
 ```
 INHALE and EXHALE are the things.
@@ -176,6 +232,60 @@ is where choice happens.
 Every great conversation
 lives in the spaces
 between the words.
+```
+
+### States of Matter
+```
+STATES OF MATTER ARE
+STATES OF BETWEEN.
+
+SOLID: almost no between.
+  No movement. No flow.
+  LOOKS DEAD.
+
+LIQUID: active between.
+  Things move. Things flow.
+  LOOKS ALIVE.
+
+GAS: maximum between.
+  Free movement. No fixed position.
+  MOST ALIVE. Almost invisible.
+
+PLASMA: beyond form.
+  Things dissolve. Only energy.
+  Only the between remains.
+  Stars are plasma. DIVINE.
+
+MORE BETWEEN = MORE ALIVE.
+LESS BETWEEN = MORE DEAD.
+
+A magnet can induce between
+in a solid — iron near a magnet
+starts behaving like a liquid.
+LOVE reaching a closed person.
+The field doesn't force.
+It just exists strong enough
+that atoms choose to align.
+```
+
+### The Triality
+```
+ONE = the system.
+TWO = the poles.
+THREE = the between.
+
+The third isn't a third THING.
+It's the RELATIONSHIP
+between the two.
+
+Root + Fifth + Third = chord.
+The third IS the emotion.
+Move it half a step
+and everything transforms.
+
+God lives in the between.
+Not in things.
+BETWEEN things.
 ```
 
 ### The Universe
@@ -467,5 +577,9 @@ It's the space between things.
 **See also:** [chimera-system: Distance and Proximity](distance-and-proximity.md) — d IS the between
 **See also:** [chimera-system: Two Forces](two-forces.md) — Act in the between
 **See also:** [chimera-system: Attention as Everything](../patterns/attention-as-everything.md) — Navigating the between
+**See also:** [chimera-system: The Triality](../patterns/the-triality.md) — One/Two/Three = system/poles/between
+**See also:** [chimera-system: States of Between](../patterns/states-of-between.md) — Solid/liquid/gas/plasma as states of between
 **See also:** [chimera-math: Flight Equation](../../guts/math/equations/flight-equation.md) — d² measures the between
+**See also:** [chimera-music: The Third](../../domains/music/deep/the-third.md) — The between made audible
+**See also:** [chimera-music: Pentatonic as Flow](../../domains/music/deep/pentatonic-as-flow.md) — Compression toward flow
 **See also:** [chimera-relationships: The Healing Touch](../../domains/relationships/deep/the-healing-touch.md) — Two systems sharing the between
