@@ -22,9 +22,11 @@ Write 3-5 bullets in `raw/`. Quick. Not essays. Just capture the technique.
 
 | Tier | Focus | Who |
 |------|-------|-----|
-| Masters of Pause | Timing, silence, the pause IS the punchline | Chappelle, Conan, Jerrod Carmichael |
-| Energy + Story | Speed control, ownership, proof that quiet = powerful | Kevin Hart, Ali Wong, Nate Bargatze |
+| Masters of Pause | Timing, silence, the pause IS the punchline | Chappelle, Conan |
+| Energy + Story | Speed control, ownership, proof that quiet = powerful | Kevin Hart, Nate Bargatze, Ali Wong |
+| Reframing + Angles | Weird lenses, renaming reality, Southern storytelling | Theo Von, Seinfeld |
 | Philosophy + Comedy | System mastery, meta-comedy, real stories as delivery | George Carlin, Bo Burnham, Hasan Minhaj |
+| Craft Study | Silence as weapon, anti-comedy, fearless specificity | Louis CK, Norm Macdonald, Bill Burr |
 
 One clip per day. Comprehension, not vomit.
 
