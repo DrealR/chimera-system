@@ -257,4 +257,77 @@ The aphid on the stem. Both streams flow through. Neither side has the full pict
 
 ---
 
-*See also: extraction-pipeline.md, original-lie-to-flood.md, the-between.md, engagement-over-outcome.md, daily-orbit.md*
+---
+
+## Intelligence Becoming Free = The Extraction Economy Eating Itself
+
+```
+The system spent decades selling cognitive labor.
+"Go to school. Get smart. Sell your brain."
+
+Now the thing they were selling is FREE.
+
+That's not a bug. That's the system
+reaching its endpoint.
+
+When the PRODUCT is free,
+the product is no longer the product.
+```
+
+When intelligence is free:
+
+| Old Scarcity | New Scarcity |
+|-------------|-------------|
+| Information | Wisdom |
+| Analysis | Taste |
+| Production | Connection |
+| Content | Truth |
+| Code | Knowing what to build |
+
+**Intelligence = commodity. Wisdom = rare. Connection = priceless.**
+
+AI is the river — becoming free and abundant like water. The valuable person is the one who knows WHERE to point the river, WHY it matters, and WHO it serves.
+
+### The Human-Proof Categories
+
+Five things people will always need from PEOPLE:
+
+```
+1. HANDS ON — Touch requires trust. Trust requires human.
+   Massage. Cooking. Haircuts. Childcare. Trades.
+
+2. PRESENCE — AI can give advice. Can't sit with you while you cry.
+   Therapists. Teachers. Community leaders. The person who shows up.
+
+3. TASTE — AI generates options. Can't tell you which one MATTERS.
+   Curators. Designers. Chefs. DJs. "This one, not that one."
+
+4. TRUST — Someone has to put their NAME on the line.
+   Lawyers. Doctors. Leaders. Someone to be responsible.
+
+5. BRIDGE — Understands AI AND humans. Translates between worlds.
+   93% of companies need this NOW. The gold rush isn't building AI.
+   It's TRANSLATING AI for normal people.
+```
+
+**"Learn the tools. But don't become one."**
+
+### The Five Tiers of Post-AI Humanity
+
+When survival work is handled, people do what they were always meant to do:
+
+```
+BUILDERS   — Build with AI. Direct it. Shape worlds.
+CONNECTORS — Focus on humans. Teaching. Healing. Community.
+ARTISTS    — Create. Music. Comedy. Film. Culture. Meaning.
+EXPLORERS  — Push boundaries. Science. Philosophy. The unknown.
+STEWARDS   — Maintain. Land. Animals. Ecology. The physical world.
+
+Nobody doing the same thing.
+Everybody doing what they were BORN to do.
+Instead of what the economy FORCED them to do.
+```
+
+---
+
+*See also: extraction-pipeline.md, original-lie-to-flood.md, the-between.md, engagement-over-outcome.md, daily-orbit.md, three-types-of-laughter.md*

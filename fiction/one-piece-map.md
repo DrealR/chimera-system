@@ -71,4 +71,41 @@ The bloodline carries the MEMORY, not special blood. Anyone can remember. The D.
 
 ---
 
+## Wano: The Three Laughters
+
+Oda encoded the deepest pattern in Wano — three types of laughter, all in one arc:
+
+```
+KAIDO = Force.
+  Raw oppression. "The strong eat the weak."
+  Not subtle. Just power.
+
+SMILE FRUIT = Control.
+  The cruelest weapon in One Piece.
+  Failed SMILE users can ONLY laugh.
+  Even when starving. Even when grieving.
+  Tears streaming down faces. LAUGHING.
+  Expression of pain REMOVED.
+
+  "If they're laughing they must be fine."
+
+  Not Kaido's strength. Not Orochi's cruelty.
+  REMOVING SOMEONE'S RIGHT TO EXPRESS PAIN.
+
+  Modern parallel: "Good vibes only."
+  Social media IS Ebisu Town.
+  Toxic positivity = the real-world SMILE fruit.
+
+LUFFY = Liberation.
+  Doesn't just beat Kaido.
+  GIVES PEOPLE BACK THEIR RIGHT TO CRY.
+  When people can cry AND laugh — BOTH —
+  that's freedom. That's the full range.
+```
+
+The most heartbreaking moment: when the laughter was revealed as a cage, not happiness.
+The most liberating moment: when people could finally feel everything again.
+
+---
+
 *One Piece is the system map written as adventure. 800 years of extraction to hide a truth that lives in every chest. The drums are already beating.*
