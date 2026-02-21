@@ -141,3 +141,17 @@ system/
 ---
 
 *This repo is upstream. Everything else flows from it. The three guts translate axioms into felt, proven, shareable truth. Domain repos instantiate. These axioms don't reference domains.*
+
+---
+
+## February 2026 Integration Notes
+
+The system now exports a formal loop layer through framework docs:
+
+- Loop properties (tick rate, nesting, feedback, agency, persistence, anchor, phase)
+- Emotion dashboard as runtime telemetry
+- Flight Equation (`P = F / A`) for pressure interpretation
+- Somatic Level-0 configuration as prerequisite control layer
+
+Public package lives in:
+- `/Users/honeydew/chimera/nucleus/framework/docs/loop-theory/`
