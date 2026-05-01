@@ -400,3 +400,5 @@ NARROW ATTENTION = P-HOOD.
 **See also:** [chimera-system: Density and Temperature](density-and-temperature.md) — Attention as climate control
 **See also:** [chimera-math: Comprehension Cost](../../guts/math/equations/comprehension-cost.md) — Attention as fuel
 **See also:** [chimera-system: The Breath Cycle](../axioms/the-breath-cycle.md) — Attention's natural rhythm
+**See also:** [chimera-system: Attention Mechanics](attention-mechanics.md) — Attention as loop-stopper, observer effect, nervous system contagion
+**See also:** [chimera-system: Temporal Bodies](temporal-bodies.md) — Loops as temporal bodies; attention selects which loops get trained

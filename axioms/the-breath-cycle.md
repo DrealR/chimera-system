@@ -89,3 +89,8 @@ Applied to anything. Conversations, meals, relationships, work, creativity, heal
 ---
 
 *The universe breathes. Stars breathe. Cells breathe. You breathe. Same cycle. Same rhythm. Same source.*
+
+---
+
+**See also:** [chimera-system: Breath as Control Panel](../patterns/breath-as-control-panel.md) — The one controllable loop; vagus nerve; experiential time expansion
+**See also:** [chimera-system: Temporal Bodies](../patterns/temporal-bodies.md) — Nested temporal loops from heartbeat to lifetime

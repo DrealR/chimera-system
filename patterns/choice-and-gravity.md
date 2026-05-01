@@ -277,6 +277,66 @@ HOW TO TELL THE DIFFERENCE:
 
 ---
 
+---
+
+## Internal vs External Mass
+
+```
+THERE ARE TWO KINDS OF MASS.
+
+INTERNAL MASS:
+  Knowledge. Character. Presence.
+  Depth. Skill. Wisdom.
+  The density of who you ARE.
+
+  Internal mass creates
+  GENUINE gravity.
+  People orbit you because
+  of WHO you are.
+  They stay when things get hard.
+  The attraction is to your CENTER.
+
+EXTERNAL MASS:
+  Possessions. Status. Followers.
+  Money. Title. Appearance.
+  The accumulation of what you HAVE.
+
+  External mass creates
+  FALSE gravity.
+  People orbit what you HAVE.
+  They leave when you lose it.
+  The attraction is to your SURFACE.
+
+THE TEST:
+  Remove the external.
+  Who stays?
+
+  Lose the job. Lose the money.
+  Lose the status. Lose the followers.
+  Who's still orbiting?
+
+  THOSE are responding to
+  internal mass.
+  Your real gravity.
+
+THE PHYSICS:
+  Internal mass = DENSITY.
+  Same volume, more mass = stronger pull.
+  A dense star attracts more
+  than a diffuse gas cloud
+  of equal total mass.
+
+  Become MORE DENSE internally.
+  Not by accumulating more.
+  By compressing what you know
+  into who you are.
+
+  DEPTH ATTRACTS.
+  ALWAYS.
+```
+
+---
+
 *Most people are orbiting, not choosing. Emotional gravity removes free will for those who can't see it. P-hood = orbiting while thinking you're choosing. NP-hood = actually free because no charge for gravity to grip. The calm player wins because everyone else abandoned their positions to chase the black hole. Freedom isn't escaping the system. It's not being pulled.*
 
 ---
@@ -284,3 +344,6 @@ HOW TO TELL THE DIFFERENCE:
 **See also:** [chimera-system: NPC Mindset](npc-mindset.md) — No charge means no grip
 **See also:** [chimera-system: Emotional Entanglement](emotional-entanglement.md) — How the gravity forms
 **See also:** [chimera-system: The Breath Cycle](../axioms/the-breath-cycle.md) — Pause = the moment of actual choice
+**See also:** [chimera-system: Gravity as Love](gravity-as-love.md) — Basketball gravity, solar system mapping, Roche Limit
+**See also:** [chimera-system: The Whirlpool](the-whirlpool.md) — Two gravitational poles creating something at the center
+**See also:** [chimera-system: Belief as Light](belief-as-light.md) — Belief as the power source behind all gravity
