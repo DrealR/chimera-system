@@ -4,7 +4,7 @@
   "upstream": [],
   "peers": [],
   "downstream": ["chimera-body", "chimera-math", "chimera-language", "chimera-framework", "chimera-relationships", "chimera-ai", "chimera-crypto", "chimera-basketball", "chimera-chess", "chimera-music", "chimera-cooking"],
-  "doc_count": 60,
+  "doc_count": 91,
   "docs": [
     {"path": "README.md", "references": []},
     {"path": "axioms/two-forces.md", "references": []},
@@ -67,5 +67,5 @@
     {"path": "connections/extraction-at-civilization-scale.md", "references": ["system/patterns/extraction-pipeline.md", "system/connections/original-lie-to-flood.md", "system/axioms/the-between.md", "system/patterns/engagement-over-outcome.md", "system/applied/daily-orbit.md", "system/patterns/three-types-of-laughter.md"]},
     {"path": "patterns/three-types-of-laughter.md", "references": ["system/fiction/one-piece-map.md", "system/patterns/extraction-pipeline.md", "system/connections/original-lie-to-flood.md", "system/axioms/the-breath-cycle.md", "system/patterns/engagement-over-outcome.md", "system/applied/daily-orbit.md"]}
   ],
-  "last_updated": "2026-02-12"
+  "last_updated": "2026-04-30"
 }
