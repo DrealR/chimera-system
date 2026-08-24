@@ -1,5 +1,13 @@
 # CHIMERA SYSTEM
 
+> **Current routing notice — 2026-08-24**
+>
+> This repository is a historical/system-domain body, not the current upstream authority for all CHIMERA meaning. Active research, execution evidence, provenance, and cross-body routing now live in the private CHIMERA Core body; the public governed orientation layer is [`DrealR/chimera-framework`](https://github.com/DrealR/chimera-framework), especially its dated `CURRENT-STATE.md`.
+>
+> The universal/axiom language preserved below is developmental lineage and carrier material unless a current Framework owner explicitly reaffirms it. Do not treat age, repetition, or this repository's older hierarchy diagram as automatic proof or present Framework truth.
+>
+> **Return path:** domain discoveries, corrections, tests, and candidate mechanisms should return through the current Core/constellation routing loop for provenance and settlement before any Framework, Story, benchmark, product, education, or other domain projection.
+
 **The axiom-level system map that all CHIMERA domains derive from.**
 
 Stars, black holes, membranes, orbits, breath — the universal structure operating at every scale from cell to galaxy. The class definition. Every domain is an instance.
